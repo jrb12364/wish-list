@@ -14,6 +14,11 @@
 - pillowcase
 
 ## Jack
+-LYCKSELE
+-VARDÖ
+-TRYSIL
+-KULLEN
+-YPPERLIG
 
 ## Thomas
 
